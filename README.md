@@ -28,7 +28,15 @@ Choose a source folder and a discard destination folder, step through images and
 | `?` | Toggle shortcuts overlay |
 | `Q` | Quit |
 
-## Build, test, and install
+## Install (Arch / Omarchy)
+
+Using the prebuilt binary from the latest GitHub release:
+
+```sh
+git clone https://github.com/ArthurWillers/sift.git && cd sift/pkgbuild/aur && makepkg -si
+```
+
+## Build from source & test
 
 ```sh
 ./bin/build
