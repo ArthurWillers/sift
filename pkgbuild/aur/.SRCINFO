@@ -1,19 +1,18 @@
-pkgbase = sift
-	pkgdesc = Fast keyboard-and-swipe photo and video triage for Omarchy
+pkgbase = sift-bin
+	pkgdesc = Fast keyboard-and-swipe photo and video triage for Omarchy (prebuilt binary)
 	pkgver = 0.1.0
 	pkgrel = 1
 	url = https://github.com/ArthurWillers/sift
 	arch = x86_64
-	arch = aarch64
 	license = MIT
-	makedepends = gcc
-	makedepends = make
 	depends = qt6-base
 	depends = qt6-declarative
 	depends = qt6-multimedia
 	depends = qt6-wayland
 	depends = xdg-desktop-portal
-	source = sift-0.1.0.tar.gz::https://github.com/ArthurWillers/sift/archive/refs/tags/v0.1.0.tar.gz
-	sha256sums = 20145252e90b4bfb51e23006717d1adb187e1bfdc7e96908078ff6c4877ca078
+	provides = sift
+	conflicts = sift
+	source = sift-bin-0.1.0.tar.gz::https://github.com/ArthurWillers/sift/releases/download/v0.1.0/sift-0.1.0-linux-x86_64.tar.gz
+	sha256sums = 21045fdd3ecd2274a9ff24beced1397e00e6b73c7b49498ef621a99e70118127
 
-pkgname = sift
+pkgname = sift-bin

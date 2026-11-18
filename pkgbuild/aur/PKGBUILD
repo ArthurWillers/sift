@@ -1,25 +1,21 @@
 # Maintainer: Arthur Vinicius Willers <https://github.com/ArthurWillers>
-pkgname=sift
+pkgname=sift-bin
 pkgver=0.1.0
 pkgrel=1
-pkgdesc='Fast keyboard-and-swipe photo and video triage for Omarchy'
-arch=('x86_64' 'aarch64')
+pkgdesc='Fast keyboard-and-swipe photo and video triage for Omarchy (prebuilt binary)'
+arch=('x86_64')
 url='https://github.com/ArthurWillers/sift'
 license=('MIT')
 depends=('qt6-base' 'qt6-declarative' 'qt6-multimedia' 'qt6-wayland' 'xdg-desktop-portal')
-makedepends=('gcc' 'make')
-source=("$pkgname-$pkgver.tar.gz::https://github.com/ArthurWillers/sift/archive/refs/tags/v$pkgver.tar.gz")
-sha256sums=('20145252e90b4bfb51e23006717d1adb187e1bfdc7e96908078ff6c4877ca078')
-
-build() {
-  cd "$pkgname-$pkgver"
-  ./bin/build
-}
+provides=('sift')
+conflicts=('sift')
+source=("$pkgname-$pkgver.tar.gz::https://github.com/ArthurWillers/sift/releases/download/v$pkgver/sift-$pkgver-linux-x86_64.tar.gz")
+sha256sums=('21045fdd3ecd2274a9ff24beced1397e00e6b73c7b49498ef621a99e70118127')
 
 package() {
-  cd "$pkgname-$pkgver"
-  install -Dm755 build/sift "$pkgdir/usr/bin/sift"
+  cd "sift-$pkgver-linux-x86_64"
+  install -Dm755 sift "$pkgdir/usr/bin/sift"
   install -Dm644 LICENSE "$pkgdir/usr/share/licenses/$pkgname/LICENSE"
-  install -Dm644 pkgbuild/sift.svg "$pkgdir/usr/share/icons/hicolor/scalable/apps/sift.svg"
-  install -Dm644 pkgbuild/sift.desktop "$pkgdir/usr/share/applications/sift.desktop"
+  install -Dm644 sift.svg "$pkgdir/usr/share/icons/hicolor/scalable/apps/sift.svg"
+  install -Dm644 sift.desktop "$pkgdir/usr/share/applications/sift.desktop"
 }

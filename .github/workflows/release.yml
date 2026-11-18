@@ -1,0 +1,39 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container:
+      image: archlinux:latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install build dependencies
+        run: |
+          pacman -Syu --noconfirm --needed base-devel qt6-base qt6-declarative qt6-multimedia qt6-wayland
+
+      - name: Build and test
+        run: |
+          ./bin/build
+          ./bin/test
+
+      - name: Package binary tarball
+        run: |
+          VERSION="${GITHUB_REF_NAME#v}"
+          STAGE="sift-${VERSION}-linux-x86_64"
+          mkdir -p "$STAGE"
+          cp build/sift pkgbuild/sift.desktop pkgbuild/sift.svg LICENSE "$STAGE/"
+          tar -czf "${STAGE}.tar.gz" "$STAGE"
+
+      - name: Upload release asset
+        uses: softprops/action-gh-release@v2
+        with:
+          files: sift-*-linux-x86_64.tar.gz
