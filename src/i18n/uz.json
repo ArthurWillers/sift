@@ -1,0 +1,44 @@
+{
+  "Change folders": "Jildlarni o‘zgartirish",
+  "New folder": "Yangi jild",
+  "Choose folders to start": "Boshlash uchun jildlarni tanlang",
+  "Discarded photos are moved to the destination folder, never deleted.": "Rad etilgan rasmlar belgilangan jildga ko‘chiriladi, hech qachon o‘chirilmaydi.",
+  "Source folder": "Manba jild",
+  "Discard destination": "Rad etilganlar jildi",
+  "No folder selected": "Jild tanlanmagan",
+  "Choose": "Tanlash",
+  "Start sifting": "Saralashni boshlash",
+  "No images found in this folder.": "Bu jildda rasmlar topilmadi.",
+  "All done": "Hammasi tayyor",
+  "Undo": "Bekor qilish",
+  "Keep": "Saqlash",
+  "Discard": "Rad etish",
+  "Folder name": "Jild nomi",
+  "Cancel": "Bekor qilish",
+  "Create": "Yaratish",
+  "Shortcuts": "Tezkor tugmalar",
+  "Keep photo": "Rasmni saqlash",
+  "Move to discard folder": "Rad etilganlar jildiga ko‘chirish",
+  "Undo last action": "Oxirgi amalni bekor qilish",
+  "Create subfolder": "Ichki jild yaratish",
+  "Move to subfolder 1-9": "1-9 ichki jildga ko‘chirish",
+  "Choose source or discard folder": "Manba yoki rad etilganlar jildini tanlash",
+  "Toggle shortcuts": "Tugmalarni ko‘rsatish/yashirish",
+  "Quit": "Chiqish",
+  "%n remaining": {
+    "one": "%n qoldi",
+    "other": "%n qoldi"
+  },
+  "%n kept": {
+    "one": "%n saqlandi",
+    "other": "%n saqlandi"
+  },
+  "%n discarded": {
+    "one": "%n rad etildi",
+    "other": "%n rad etildi"
+  },
+  "%n moved": {
+    "one": "%n ko‘chirildi",
+    "other": "%n ko‘chirildi"
+  }
+}

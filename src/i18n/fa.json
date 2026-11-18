@@ -1,0 +1,44 @@
+{
+  "Change folders": "تغییر پوشه‌ها",
+  "New folder": "پوشه جدید",
+  "Choose folders to start": "پوشه‌ها را برای شروع انتخاب کنید",
+  "Discarded photos are moved to the destination folder, never deleted.": "عکس‌های کنار گذاشته شده به پوشه مقصد منتقل می‌شوند و هرگز حذف نمی‌شوند.",
+  "Source folder": "پوشه مبدأ",
+  "Discard destination": "مقصد کنار گذاشته‌ها",
+  "No folder selected": "پوشه‌ای انتخاب نشده",
+  "Choose": "انتخاب",
+  "Start sifting": "شروع دسته‌بندی",
+  "No images found in this folder.": "تصویری در این پوشه یافت نشد.",
+  "All done": "همه انجام شد",
+  "Undo": "واگرد",
+  "Keep": "نگه دار",
+  "Discard": "کنار بگذار",
+  "Folder name": "نام پوشه",
+  "Cancel": "لغو",
+  "Create": "ایجاد",
+  "Shortcuts": "میانبرها",
+  "Keep photo": "نگه داشتن عکس",
+  "Move to discard folder": "انتقال به پوشه کنار گذاشته‌ها",
+  "Undo last action": "واگرد آخرین عمل",
+  "Create subfolder": "ایجاد زیرپوشه",
+  "Move to subfolder 1-9": "انتقال به زیرپوشه 1-9",
+  "Choose source or discard folder": "انتخاب پوشه مبدأ یا کنار گذاشته‌ها",
+  "Toggle shortcuts": "نمایش/مخفی کردن میانبرها",
+  "Quit": "خروج",
+  "%n remaining": {
+    "one": "%n باقیمانده",
+    "other": "%n باقیمانده"
+  },
+  "%n kept": {
+    "one": "%n نگه داشته شد",
+    "other": "%n نگه داشته شد"
+  },
+  "%n discarded": {
+    "one": "%n کنار گذاشته شد",
+    "other": "%n کنار گذاشته شد"
+  },
+  "%n moved": {
+    "one": "%n منتقل شد",
+    "other": "%n منتقل شد"
+  }
+}

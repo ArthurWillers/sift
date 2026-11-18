@@ -1,0 +1,40 @@
+{
+  "Change folders": "Đổi thư mục",
+  "New folder": "Thư mục mới",
+  "Choose folders to start": "Chọn thư mục để bắt đầu",
+  "Discarded photos are moved to the destination folder, never deleted.": "Ảnh bị loại được chuyển vào thư mục đích, không bao giờ bị xóa.",
+  "Source folder": "Thư mục nguồn",
+  "Discard destination": "Thư mục đích loại bỏ",
+  "No folder selected": "Chưa chọn thư mục",
+  "Choose": "Chọn",
+  "Start sifting": "Bắt đầu lọc",
+  "No images found in this folder.": "Không tìm thấy ảnh nào trong thư mục này.",
+  "All done": "Hoàn tất",
+  "Undo": "Hoàn tác",
+  "Keep": "Giữ lại",
+  "Discard": "Loại bỏ",
+  "Folder name": "Tên thư mục",
+  "Cancel": "Hủy",
+  "Create": "Tạo",
+  "Shortcuts": "Phím tắt",
+  "Keep photo": "Giữ ảnh",
+  "Move to discard folder": "Chuyển vào thư mục loại bỏ",
+  "Undo last action": "Hoàn tác thao tác cuối",
+  "Create subfolder": "Tạo thư mục con",
+  "Move to subfolder 1-9": "Chuyển vào thư mục con 1-9",
+  "Choose source or discard folder": "Chọn thư mục nguồn hoặc loại bỏ",
+  "Toggle shortcuts": "Hiện/ẩn phím tắt",
+  "Quit": "Thoát",
+  "%n remaining": {
+    "other": "Còn %n"
+  },
+  "%n kept": {
+    "other": "Giữ %n"
+  },
+  "%n discarded": {
+    "other": "Loại %n"
+  },
+  "%n moved": {
+    "other": "Đã chuyển %n"
+  }
+}

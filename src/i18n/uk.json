@@ -1,0 +1,52 @@
+{
+  "Change folders": "Змінити папки",
+  "New folder": "Нова папка",
+  "Choose folders to start": "Виберіть папки для початку",
+  "Discarded photos are moved to the destination folder, never deleted.": "Відхилені фото переміщуються до цільової папки й ніколи не видаляються.",
+  "Source folder": "Вихідна папка",
+  "Discard destination": "Папка для відхилених",
+  "No folder selected": "Папку не вибрано",
+  "Choose": "Вибрати",
+  "Start sifting": "Почати перегляд",
+  "No images found in this folder.": "У цій папці не знайдено зображень.",
+  "All done": "Готово",
+  "Undo": "Скасувати",
+  "Keep": "Залишити",
+  "Discard": "Відхилити",
+  "Folder name": "Назва папки",
+  "Cancel": "Скасувати",
+  "Create": "Створити",
+  "Shortcuts": "Клавіші",
+  "Keep photo": "Залишити фото",
+  "Move to discard folder": "Перемістити до папки відхилених",
+  "Undo last action": "Скасувати останню дію",
+  "Create subfolder": "Створити підпапку",
+  "Move to subfolder 1-9": "Перемістити до підпапки 1-9",
+  "Choose source or discard folder": "Вибрати вихідну або папку відхилених",
+  "Toggle shortcuts": "Показати/сховати клавіші",
+  "Quit": "Вийти",
+  "%n remaining": {
+    "one": "Залишилось %n",
+    "few": "Залишилось %n",
+    "many": "Залишилось %n",
+    "other": "Залишилось %n"
+  },
+  "%n kept": {
+    "one": "%n залишено",
+    "few": "%n залишено",
+    "many": "%n залишено",
+    "other": "%n залишено"
+  },
+  "%n discarded": {
+    "one": "%n відхилено",
+    "few": "%n відхилено",
+    "many": "%n відхилено",
+    "other": "%n відхилено"
+  },
+  "%n moved": {
+    "one": "%n переміщено",
+    "few": "%n переміщено",
+    "many": "%n переміщено",
+    "other": "%n переміщено"
+  }
+}

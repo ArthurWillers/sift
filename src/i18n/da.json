@@ -1,0 +1,44 @@
+{
+  "Change folders": "Skift mapper",
+  "New folder": "Ny mappe",
+  "Choose folders to start": "Vælg mapper for at starte",
+  "Discarded photos are moved to the destination folder, never deleted.": "Frasorterede billeder flyttes til destinationsmappen og slettes aldrig.",
+  "Source folder": "Kildemappe",
+  "Discard destination": "Mappe til frasorterede",
+  "No folder selected": "Ingen mappe valgt",
+  "Choose": "Vælg",
+  "Start sifting": "Start gennemgang",
+  "No images found in this folder.": "Ingen billeder fundet i denne mappe.",
+  "All done": "Helt færdig",
+  "Undo": "Fortryd",
+  "Keep": "Behold",
+  "Discard": "Frasorter",
+  "Folder name": "Mappenavn",
+  "Cancel": "Annuller",
+  "Create": "Opret",
+  "Shortcuts": "Genveje",
+  "Keep photo": "Behold billede",
+  "Move to discard folder": "Flyt til frasorteringsmappe",
+  "Undo last action": "Fortryd seneste handling",
+  "Create subfolder": "Opret undermappe",
+  "Move to subfolder 1-9": "Flyt til undermappe 1-9",
+  "Choose source or discard folder": "Vælg kilde- eller frasorteringsmappe",
+  "Toggle shortcuts": "Vis/skjul genveje",
+  "Quit": "Afslut",
+  "%n remaining": {
+    "one": "%n tilbage",
+    "other": "%n tilbage"
+  },
+  "%n kept": {
+    "one": "%n beholdt",
+    "other": "%n beholdt"
+  },
+  "%n discarded": {
+    "one": "%n frasorteret",
+    "other": "%n frasorterede"
+  },
+  "%n moved": {
+    "one": "%n flyttet",
+    "other": "%n flyttede"
+  }
+}

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Sift
+Comment=Fast keyboard-and-swipe photo triage
+Comment[pt]=Triagem rápida de fotos por teclado e gesto
+Comment[pt_BR]=Triagem rápida de fotos por teclado e gesto
+Exec=sift %f
+Icon=sift
+Terminal=false
+Categories=Graphics;Utility;
+StartupWMClass=sift

@@ -1,0 +1,44 @@
+{
+  "Change folders": "Mappen wijzigen",
+  "New folder": "Nieuwe map",
+  "Choose folders to start": "Kies mappen om te beginnen",
+  "Discarded photos are moved to the destination folder, never deleted.": "Afgewezen foto's worden naar de doelmap verplaatst, nooit verwijderd.",
+  "Source folder": "Bronmap",
+  "Discard destination": "Doelmap voor afgewezen",
+  "No folder selected": "Geen map geselecteerd",
+  "Choose": "Kiezen",
+  "Start sifting": "Begin met selecteren",
+  "No images found in this folder.": "Geen afbeeldingen gevonden in deze map.",
+  "All done": "Klaar",
+  "Undo": "Ongedaan maken",
+  "Keep": "Bewaren",
+  "Discard": "Wegdoen",
+  "Folder name": "Mapnaam",
+  "Cancel": "Annuleren",
+  "Create": "Maken",
+  "Shortcuts": "Sneltoetsen",
+  "Keep photo": "Foto bewaren",
+  "Move to discard folder": "Naar doelmap verplaatsen",
+  "Undo last action": "Laatste actie ongedaan maken",
+  "Create subfolder": "Submap maken",
+  "Move to subfolder 1-9": "Verplaats naar submap 1-9",
+  "Choose source or discard folder": "Kies bron- of doelmap",
+  "Toggle shortcuts": "Sneltoetsen tonen/verbergen",
+  "Quit": "Afsluiten",
+  "%n remaining": {
+    "one": "%n resterend",
+    "other": "%n resterend"
+  },
+  "%n kept": {
+    "one": "%n bewaard",
+    "other": "%n bewaard"
+  },
+  "%n discarded": {
+    "one": "%n weggedaan",
+    "other": "%n weggedaan"
+  },
+  "%n moved": {
+    "one": "%n verplaatst",
+    "other": "%n verplaatst"
+  }
+}

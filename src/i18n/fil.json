@@ -1,0 +1,44 @@
+{
+  "Change folders": "Palitan ang mga folder",
+  "New folder": "Bagong folder",
+  "Choose folders to start": "Pumili ng mga folder para magsimula",
+  "Discarded photos are moved to the destination folder, never deleted.": "Ang mga tinanggihang larawan ay inililipat sa destinasyong folder, hindi binubura.",
+  "Source folder": "Pinagmulang folder",
+  "Discard destination": "Destinasyon ng tinanggihan",
+  "No folder selected": "Walang napiling folder",
+  "Choose": "Pumili",
+  "Start sifting": "Simulan ang pagpili",
+  "No images found in this folder.": "Walang nakitang larawan sa folder na ito.",
+  "All done": "Tapos na",
+  "Undo": "I-undo",
+  "Keep": "Panatilihin",
+  "Discard": "Tanggihan",
+  "Folder name": "Pangalan ng folder",
+  "Cancel": "Kanselahin",
+  "Create": "Gumawa",
+  "Shortcuts": "Mga shortcut",
+  "Keep photo": "Panatilihin ang larawan",
+  "Move to discard folder": "Ilipat sa folder ng tinanggihan",
+  "Undo last action": "I-undo ang huling aksyon",
+  "Create subfolder": "Gumawa ng subfolder",
+  "Move to subfolder 1-9": "Ilipat sa subfolder 1-9",
+  "Choose source or discard folder": "Pumili ng pinagmulan o destinasyong folder",
+  "Toggle shortcuts": "Ipakita/itago ang mga shortcut",
+  "Quit": "Isara",
+  "%n remaining": {
+    "one": "%n natitira",
+    "other": "%n natitira"
+  },
+  "%n kept": {
+    "one": "%n napanatili",
+    "other": "%n napanatili"
+  },
+  "%n discarded": {
+    "one": "%n tinanggihan",
+    "other": "%n tinanggihan"
+  },
+  "%n moved": {
+    "one": "%n nailipat",
+    "other": "%n nailipat"
+  }
+}

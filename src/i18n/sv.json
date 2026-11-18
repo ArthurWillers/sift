@@ -1,0 +1,44 @@
+{
+  "Change folders": "Byt mappar",
+  "New folder": "Ny mapp",
+  "Choose folders to start": "Välj mappar för att börja",
+  "Discarded photos are moved to the destination folder, never deleted.": "Bortvalda bilder flyttas till målmappen och raderas aldrig.",
+  "Source folder": "Källmapp",
+  "Discard destination": "Mål för bortvalda",
+  "No folder selected": "Ingen mapp vald",
+  "Choose": "Välj",
+  "Start sifting": "Börja granska",
+  "No images found in this folder.": "Inga bilder hittades i den här mappen.",
+  "All done": "Klart",
+  "Undo": "Ångra",
+  "Keep": "Behåll",
+  "Discard": "Välj bort",
+  "Folder name": "Mappnamn",
+  "Cancel": "Avbryt",
+  "Create": "Skapa",
+  "Shortcuts": "Genvägar",
+  "Keep photo": "Behåll bild",
+  "Move to discard folder": "Flytta till bortvalsmapp",
+  "Undo last action": "Ångra senaste åtgärd",
+  "Create subfolder": "Skapa undermapp",
+  "Move to subfolder 1-9": "Flytta till undermapp 1-9",
+  "Choose source or discard folder": "Välj käll- eller bortvalsmapp",
+  "Toggle shortcuts": "Visa/dölj genvägar",
+  "Quit": "Avsluta",
+  "%n remaining": {
+    "one": "%n kvar",
+    "other": "%n kvar"
+  },
+  "%n kept": {
+    "one": "%n behållen",
+    "other": "%n behållna"
+  },
+  "%n discarded": {
+    "one": "%n bortvald",
+    "other": "%n bortvalda"
+  },
+  "%n moved": {
+    "one": "%n flyttad",
+    "other": "%n flyttade"
+  }
+}

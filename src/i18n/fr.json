@@ -1,0 +1,44 @@
+{
+  "Change folders": "Changer les dossiers",
+  "New folder": "Nouveau dossier",
+  "Choose folders to start": "Choisissez les dossiers pour commencer",
+  "Discarded photos are moved to the destination folder, never deleted.": "Les photos écartées sont déplacées vers le dossier de destination, jamais supprimées.",
+  "Source folder": "Dossier source",
+  "Discard destination": "Dossier des photos écartées",
+  "No folder selected": "Aucun dossier sélectionné",
+  "Choose": "Choisir",
+  "Start sifting": "Commencer le tri",
+  "No images found in this folder.": "Aucune image trouvée dans ce dossier.",
+  "All done": "Terminé",
+  "Undo": "Annuler",
+  "Keep": "Garder",
+  "Discard": "Écarter",
+  "Folder name": "Nom du dossier",
+  "Cancel": "Annuler",
+  "Create": "Créer",
+  "Shortcuts": "Raccourcis",
+  "Keep photo": "Garder la photo",
+  "Move to discard folder": "Déplacer vers le dossier de rejet",
+  "Undo last action": "Annuler la dernière action",
+  "Create subfolder": "Créer un sous-dossier",
+  "Move to subfolder 1-9": "Déplacer vers le sous-dossier 1-9",
+  "Choose source or discard folder": "Choisir le dossier source ou de rejet",
+  "Toggle shortcuts": "Afficher/masquer les raccourcis",
+  "Quit": "Quitter",
+  "%n remaining": {
+    "one": "%n restante",
+    "other": "%n restantes"
+  },
+  "%n kept": {
+    "one": "%n gardée",
+    "other": "%n gardées"
+  },
+  "%n discarded": {
+    "one": "%n écartée",
+    "other": "%n écartées"
+  },
+  "%n moved": {
+    "one": "%n déplacée",
+    "other": "%n déplacées"
+  }
+}

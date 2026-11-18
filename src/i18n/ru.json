@@ -1,0 +1,52 @@
+{
+  "Change folders": "Сменить папки",
+  "New folder": "Новая папка",
+  "Choose folders to start": "Выберите папки для начала",
+  "Discarded photos are moved to the destination folder, never deleted.": "Отклонённые фото перемещаются в выбранную папку, а не удаляются.",
+  "Source folder": "Исходная папка",
+  "Discard destination": "Папка для отклонённых",
+  "No folder selected": "Папка не выбрана",
+  "Choose": "Выбрать",
+  "Start sifting": "Начать отбор",
+  "No images found in this folder.": "В этой папке нет изображений.",
+  "All done": "Готово",
+  "Undo": "Отменить",
+  "Keep": "Оставить",
+  "Discard": "Отклонить",
+  "Folder name": "Имя папки",
+  "Cancel": "Отмена",
+  "Create": "Создать",
+  "Shortcuts": "Горячие клавиши",
+  "Keep photo": "Оставить фото",
+  "Move to discard folder": "Переместить в папку отклонённых",
+  "Undo last action": "Отменить последнее действие",
+  "Create subfolder": "Создать подпапку",
+  "Move to subfolder 1-9": "Переместить в подпапку 1-9",
+  "Choose source or discard folder": "Выбрать исходную или папку отклонённых",
+  "Toggle shortcuts": "Показать/скрыть клавиши",
+  "Quit": "Выход",
+  "%n remaining": {
+    "one": "Осталось %n",
+    "few": "Осталось %n",
+    "many": "Осталось %n",
+    "other": "Осталось %n"
+  },
+  "%n kept": {
+    "one": "%n оставлено",
+    "few": "%n оставлено",
+    "many": "%n оставлено",
+    "other": "%n оставлено"
+  },
+  "%n discarded": {
+    "one": "%n отклонено",
+    "few": "%n отклонено",
+    "many": "%n отклонено",
+    "other": "%n отклонено"
+  },
+  "%n moved": {
+    "one": "%n перемещено",
+    "few": "%n перемещено",
+    "many": "%n перемещено",
+    "other": "%n перемещено"
+  }
+}

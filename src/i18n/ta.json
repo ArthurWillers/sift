@@ -1,0 +1,44 @@
+{
+  "Change folders": "கோப்புறைகளை மாற்று",
+  "New folder": "புதிய கோப்புறை",
+  "Choose folders to start": "தொடங்க கோப்புறைகளைத் தேர்ந்தெடுக்கவும்",
+  "Discarded photos are moved to the destination folder, never deleted.": "நீக்கப்படும் படங்கள் இலக்கு கோப்புறைக்கு நகர்த்தப்படும், அழிக்கப்படாது.",
+  "Source folder": "மூல கோப்புறை",
+  "Discard destination": "தள்ளுபடி இலக்கு",
+  "No folder selected": "கோப்புறை தேர்ந்தெடுக்கப்படவில்லை",
+  "Choose": "தேர்ந்தெடு",
+  "Start sifting": "பிரித்தலைத் தொடங்கு",
+  "No images found in this folder.": "இந்த கோப்புறையில் படங்கள் இல்லை.",
+  "All done": "முடிந்தது",
+  "Undo": "செயல்தவிர்",
+  "Keep": "வைத்திரு",
+  "Discard": "தள்ளுபடி",
+  "Folder name": "கோப்புறை பெயர்",
+  "Cancel": "ரத்து",
+  "Create": "உருவாக்கு",
+  "Shortcuts": "குறுக்குவழிகள்",
+  "Keep photo": "படத்தை வைத்திரு",
+  "Move to discard folder": "தள்ளுபடி கோப்புறைக்கு நகர்த்து",
+  "Undo last action": "கடைசி செயலைத் தவிர்",
+  "Create subfolder": "துணைக்கோப்புறை உருவாக்கு",
+  "Move to subfolder 1-9": "துணைக்கோப்புறை 1-9க்கு நகர்த்து",
+  "Choose source or discard folder": "மூல அல்லது தள்ளுபடி கோப்புறையைத் தேர்ந்தெடு",
+  "Toggle shortcuts": "குறுக்குவழிகளைக் காட்டு/மறை",
+  "Quit": "வெளியேறு",
+  "%n remaining": {
+    "one": "%n மீதம்",
+    "other": "%n மீதம்"
+  },
+  "%n kept": {
+    "one": "%n வைக்கப்பட்டது",
+    "other": "%n வைக்கப்பட்டன"
+  },
+  "%n discarded": {
+    "one": "%n தள்ளுபடி",
+    "other": "%n தள்ளுபடி"
+  },
+  "%n moved": {
+    "one": "%n நகர்த்தப்பட்டது",
+    "other": "%n நகர்த்தப்பட்டன"
+  }
+}

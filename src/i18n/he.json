@@ -1,0 +1,48 @@
+{
+  "Change folders": "החלף תיקיות",
+  "New folder": "תיקייה חדשה",
+  "Choose folders to start": "בחר תיקיות להתחלה",
+  "Discarded photos are moved to the destination folder, never deleted.": "תמונות שנדחו מועברות לתיקיית היעד ולעולם אינן נמחקות.",
+  "Source folder": "תיקיית מקור",
+  "Discard destination": "יעד לדחייה",
+  "No folder selected": "לא נבחרה תיקייה",
+  "Choose": "בחר",
+  "Start sifting": "התחל סינון",
+  "No images found in this folder.": "לא נמצאו תמונות בתיקייה זו.",
+  "All done": "הכול הושלם",
+  "Undo": "בטל",
+  "Keep": "שמור",
+  "Discard": "דחה",
+  "Folder name": "שם תיקייה",
+  "Cancel": "ביטול",
+  "Create": "צור",
+  "Shortcuts": "קיצורי מקשים",
+  "Keep photo": "שמור תמונה",
+  "Move to discard folder": "העבר לתיקיית הדחייה",
+  "Undo last action": "בטל פעולה אחרונה",
+  "Create subfolder": "צור תת-תיקייה",
+  "Move to subfolder 1-9": "העבר לתת-תיקייה 1-9",
+  "Choose source or discard folder": "בחר תיקיית מקור או דחייה",
+  "Toggle shortcuts": "הצג/הסתר קיצורים",
+  "Quit": "יציאה",
+  "%n remaining": {
+    "one": "נותרה %n",
+    "two": "נותרו %n",
+    "other": "נותרו %n"
+  },
+  "%n kept": {
+    "one": "%n נשמרה",
+    "two": "%n נשמרו",
+    "other": "%n נשמרו"
+  },
+  "%n discarded": {
+    "one": "%n נדחתה",
+    "two": "%n נדחו",
+    "other": "%n נדחו"
+  },
+  "%n moved": {
+    "one": "%n הועברה",
+    "two": "%n הועברו",
+    "other": "%n הועברו"
+  }
+}

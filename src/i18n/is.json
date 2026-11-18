@@ -1,0 +1,44 @@
+{
+  "Change folders": "Skipta um möppur",
+  "New folder": "Ný mappa",
+  "Choose folders to start": "Veldu möppur til að byrja",
+  "Discarded photos are moved to the destination folder, never deleted.": "Myndum sem hafnað er eru færðar í áfangamöppu, aldrei eytt.",
+  "Source folder": "Upprunamappa",
+  "Discard destination": "Áfangamappa fyrir hafnaðar",
+  "No folder selected": "Engin mappa valin",
+  "Choose": "Velja",
+  "Start sifting": "Hefja flokkun",
+  "No images found in this folder.": "Engar myndir fundust í þessari möppu.",
+  "All done": "Allt búið",
+  "Undo": "Afturkalla",
+  "Keep": "Halda",
+  "Discard": "Hafna",
+  "Folder name": "Nafn möppu",
+  "Cancel": "Hætta við",
+  "Create": "Búa til",
+  "Shortcuts": "Flýtilyklar",
+  "Keep photo": "Halda mynd",
+  "Move to discard folder": "Færa í hafnarmöppu",
+  "Undo last action": "Afturkalla síðustu aðgerð",
+  "Create subfolder": "Búa til undirmöppu",
+  "Move to subfolder 1-9": "Færa í undirmöppu 1-9",
+  "Choose source or discard folder": "Veldu uppruna- eða hafnarmöppu",
+  "Toggle shortcuts": "Sýna/fela flýtilykla",
+  "Quit": "Hætta",
+  "%n remaining": {
+    "one": "%n eftir",
+    "other": "%n eftir"
+  },
+  "%n kept": {
+    "one": "%n haldið",
+    "other": "%n haldið"
+  },
+  "%n discarded": {
+    "one": "%n hafnað",
+    "other": "%n hafnað"
+  },
+  "%n moved": {
+    "one": "%n færð",
+    "other": "%n færðar"
+  }
+}

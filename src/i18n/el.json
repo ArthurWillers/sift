@@ -1,0 +1,44 @@
+{
+  "Change folders": "Αλλαγή φακέλων",
+  "New folder": "Νέος φάκελος",
+  "Choose folders to start": "Επιλέξτε φακέλους για εκκίνηση",
+  "Discarded photos are moved to the destination folder, never deleted.": "Οι απορριφθείσες φωτογραφίες μετακινούνται στον φάκελο προορισμού, δεν διαγράφονται ποτέ.",
+  "Source folder": "Φάκελος προέλευσης",
+  "Discard destination": "Προορισμός απόρριψης",
+  "No folder selected": "Δεν επιλέχθηκε φάκελος",
+  "Choose": "Επιλογή",
+  "Start sifting": "Έναρξη διαλογής",
+  "No images found in this folder.": "Δεν βρέθηκαν εικόνες σε αυτόν τον φάκελο.",
+  "All done": "Ολοκληρώθηκε",
+  "Undo": "Αναίρεση",
+  "Keep": "Διατήρηση",
+  "Discard": "Απόρριψη",
+  "Folder name": "Όνομα φακέλου",
+  "Cancel": "Ακύρωση",
+  "Create": "Δημιουργία",
+  "Shortcuts": "Συντομεύσεις",
+  "Keep photo": "Διατήρηση φωτογραφίας",
+  "Move to discard folder": "Μετακίνηση στον φάκελο απόρριψης",
+  "Undo last action": "Αναίρεση τελευταίας ενέργειας",
+  "Create subfolder": "Δημιουργία υποφακέλου",
+  "Move to subfolder 1-9": "Μετακίνηση στον υποφάκελο 1-9",
+  "Choose source or discard folder": "Επιλογή φακέλου προέλευσης ή απόρριψης",
+  "Toggle shortcuts": "Εμφάνιση/απόκρυψη συντομεύσεων",
+  "Quit": "Έξοδος",
+  "%n remaining": {
+    "one": "%n απομένει",
+    "other": "%n απομένουν"
+  },
+  "%n kept": {
+    "one": "%n διατηρήθηκε",
+    "other": "%n διατηρήθηκαν"
+  },
+  "%n discarded": {
+    "one": "%n απορρίφθηκε",
+    "other": "%n απορρίφθηκαν"
+  },
+  "%n moved": {
+    "one": "%n μετακινήθηκε",
+    "other": "%n μετακινήθηκαν"
+  }
+}

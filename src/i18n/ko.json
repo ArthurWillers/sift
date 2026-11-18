@@ -1,0 +1,40 @@
+{
+  "Change folders": "폴더 변경",
+  "New folder": "새 폴더",
+  "Choose folders to start": "시작할 폴더 선택",
+  "Discarded photos are moved to the destination folder, never deleted.": "제외된 사진은 삭제되지 않고 대상 폴더로 이동됩니다.",
+  "Source folder": "원본 폴더",
+  "Discard destination": "제외 대상 폴더",
+  "No folder selected": "선택된 폴더 없음",
+  "Choose": "선택",
+  "Start sifting": "분류 시작",
+  "No images found in this folder.": "이 폴더에 이미지가 없습니다.",
+  "All done": "모두 완료",
+  "Undo": "실행 취소",
+  "Keep": "보관",
+  "Discard": "제외",
+  "Folder name": "폴더 이름",
+  "Cancel": "취소",
+  "Create": "만들기",
+  "Shortcuts": "단축키",
+  "Keep photo": "사진 보관",
+  "Move to discard folder": "제외 폴더로 이동",
+  "Undo last action": "마지막 작업 실행 취소",
+  "Create subfolder": "하위 폴더 만들기",
+  "Move to subfolder 1-9": "하위 폴더 1-9로 이동",
+  "Choose source or discard folder": "원본 또는 제외 폴더 선택",
+  "Toggle shortcuts": "단축키 표시/숨기기",
+  "Quit": "종료",
+  "%n remaining": {
+    "other": "%n개 남음"
+  },
+  "%n kept": {
+    "other": "%n개 보관"
+  },
+  "%n discarded": {
+    "other": "%n개 제외"
+  },
+  "%n moved": {
+    "other": "%n개 이동"
+  }
+}

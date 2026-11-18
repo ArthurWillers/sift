@@ -1,0 +1,44 @@
+{
+  "Change folders": "Muuda kaustu",
+  "New folder": "Uus kaust",
+  "Choose folders to start": "Vali alustamiseks kaustad",
+  "Discarded photos are moved to the destination folder, never deleted.": "Kõrvale jäetud fotod teisaldatakse sihtkausta, neid ei kustutata kunagi.",
+  "Source folder": "Lähtekaust",
+  "Discard destination": "Kõrvaldatute sihtkaust",
+  "No folder selected": "Kausta pole valitud",
+  "Choose": "Vali",
+  "Start sifting": "Alusta sõelumist",
+  "No images found in this folder.": "Selles kaustas pilte ei leitud.",
+  "All done": "Kõik tehtud",
+  "Undo": "Võta tagasi",
+  "Keep": "Hoia alles",
+  "Discard": "Jäta kõrvale",
+  "Folder name": "Kausta nimi",
+  "Cancel": "Tühista",
+  "Create": "Loo",
+  "Shortcuts": "Kiirklahvid",
+  "Keep photo": "Hoia foto alles",
+  "Move to discard folder": "Teisalda kõrvaldatute kausta",
+  "Undo last action": "Võta viimane toiming tagasi",
+  "Create subfolder": "Loo alamkaust",
+  "Move to subfolder 1-9": "Teisalda alamkausta 1-9",
+  "Choose source or discard folder": "Vali lähte- või sihtkaust",
+  "Toggle shortcuts": "Näita/peida kiirklahvid",
+  "Quit": "Välju",
+  "%n remaining": {
+    "one": "%n jäänud",
+    "other": "%n jäänud"
+  },
+  "%n kept": {
+    "one": "%n alles hoitud",
+    "other": "%n alles hoitud"
+  },
+  "%n discarded": {
+    "one": "%n kõrvale jäetud",
+    "other": "%n kõrvale jäetud"
+  },
+  "%n moved": {
+    "one": "%n teisaldatud",
+    "other": "%n teisaldatud"
+  }
+}

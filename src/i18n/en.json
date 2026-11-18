@@ -1,0 +1,22 @@
+{
+  "%n remaining": {
+    "one": "%n remaining",
+    "other": "%n remaining"
+  },
+  "%n kept": {
+    "one": "%n kept",
+    "other": "%n kept"
+  },
+  "%n discarded": {
+    "one": "%n discarded",
+    "other": "%n discarded"
+  },
+  "%n moved": {
+    "one": "%n moved",
+    "other": "%n moved"
+  },
+  "Move %n files": {
+    "one": "Move %n file",
+    "other": "Move %n files"
+  }
+}

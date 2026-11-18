@@ -1,0 +1,40 @@
+{
+  "Change folders": "Tukar folder",
+  "New folder": "Folder baharu",
+  "Choose folders to start": "Pilih folder untuk bermula",
+  "Discarded photos are moved to the destination folder, never deleted.": "Foto yang dibuang dipindahkan ke folder destinasi, tidak pernah dipadamkan.",
+  "Source folder": "Folder sumber",
+  "Discard destination": "Destinasi buangan",
+  "No folder selected": "Tiada folder dipilih",
+  "Choose": "Pilih",
+  "Start sifting": "Mula menyaring",
+  "No images found in this folder.": "Tiada imej ditemui dalam folder ini.",
+  "All done": "Selesai",
+  "Undo": "Buat asal",
+  "Keep": "Simpan",
+  "Discard": "Buang",
+  "Folder name": "Nama folder",
+  "Cancel": "Batal",
+  "Create": "Cipta",
+  "Shortcuts": "Pintasan",
+  "Keep photo": "Simpan foto",
+  "Move to discard folder": "Alih ke folder buangan",
+  "Undo last action": "Buat asal tindakan terakhir",
+  "Create subfolder": "Cipta subfolder",
+  "Move to subfolder 1-9": "Alih ke subfolder 1-9",
+  "Choose source or discard folder": "Pilih folder sumber atau buangan",
+  "Toggle shortcuts": "Tunjuk/sembunyi pintasan",
+  "Quit": "Keluar",
+  "%n remaining": {
+    "other": "%n berbaki"
+  },
+  "%n kept": {
+    "other": "%n disimpan"
+  },
+  "%n discarded": {
+    "other": "%n dibuang"
+  },
+  "%n moved": {
+    "other": "%n dialihkan"
+  }
+}

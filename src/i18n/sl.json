@@ -1,0 +1,52 @@
+{
+  "Change folders": "Zamenjaj mape",
+  "New folder": "Nova mapa",
+  "Choose folders to start": "Izberite mapi za začetek",
+  "Discarded photos are moved to the destination folder, never deleted.": "Zavržene fotografije se premaknejo v ciljno mapo in se nikoli ne izbrišejo.",
+  "Source folder": "Izvorna mapa",
+  "Discard destination": "Cilj za zavržene",
+  "No folder selected": "Nobena mapa ni izbrana",
+  "Choose": "Izberi",
+  "Start sifting": "Začni pregled",
+  "No images found in this folder.": "V tej mapi ni slik.",
+  "All done": "Vse končano",
+  "Undo": "Razveljavi",
+  "Keep": "Obdrži",
+  "Discard": "Zavrzi",
+  "Folder name": "Ime mape",
+  "Cancel": "Prekliči",
+  "Create": "Ustvari",
+  "Shortcuts": "Bližnjice",
+  "Keep photo": "Obdrži fotografijo",
+  "Move to discard folder": "Premakni v mapo za zavržene",
+  "Undo last action": "Razveljavi zadnje dejanje",
+  "Create subfolder": "Ustvari podmapo",
+  "Move to subfolder 1-9": "Premakni v podmapo 1-9",
+  "Choose source or discard folder": "Izberi izvorno ali mapo za zavržene",
+  "Toggle shortcuts": "Prikaži/skrij bližnjice",
+  "Quit": "Izhod",
+  "%n remaining": {
+    "one": "Preostane %n",
+    "two": "Preostaneta %n",
+    "few": "Preostanejo %n",
+    "other": "Preostane %n"
+  },
+  "%n kept": {
+    "one": "%n obdržana",
+    "two": "%n obdržani",
+    "few": "%n obdržane",
+    "other": "%n obdržanih"
+  },
+  "%n discarded": {
+    "one": "%n zavržena",
+    "two": "%n zavrženi",
+    "few": "%n zavržene",
+    "other": "%n zavrženih"
+  },
+  "%n moved": {
+    "one": "%n premaknjena",
+    "two": "%n premaknjeni",
+    "few": "%n premaknjene",
+    "other": "%n premaknjenih"
+  }
+}

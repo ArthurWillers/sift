@@ -1,0 +1,40 @@
+{
+  "Change folders": "變更資料夾",
+  "New folder": "新增資料夾",
+  "Choose folders to start": "選擇資料夾以開始",
+  "Discarded photos are moved to the destination folder, never deleted.": "捨棄的照片會移動到目標資料夾，絕不會直接刪除。",
+  "Source folder": "來源資料夾",
+  "Discard destination": "捨棄目標資料夾",
+  "No folder selected": "尚未選擇資料夾",
+  "Choose": "選擇",
+  "Start sifting": "開始篩選",
+  "No images found in this folder.": "此資料夾中找不到圖片。",
+  "All done": "全部完成",
+  "Undo": "復原",
+  "Keep": "保留",
+  "Discard": "捨棄",
+  "Folder name": "資料夾名稱",
+  "Cancel": "取消",
+  "Create": "建立",
+  "Shortcuts": "快捷鍵",
+  "Keep photo": "保留照片",
+  "Move to discard folder": "移動到捨棄資料夾",
+  "Undo last action": "復原上一步",
+  "Create subfolder": "建立子資料夾",
+  "Move to subfolder 1-9": "移動到子資料夾 1-9",
+  "Choose source or discard folder": "選擇來源或捨棄資料夾",
+  "Toggle shortcuts": "顯示/隱藏快捷鍵",
+  "Quit": "結束",
+  "%n remaining": {
+    "other": "剩餘 %n"
+  },
+  "%n kept": {
+    "other": "保留 %n"
+  },
+  "%n discarded": {
+    "other": "捨棄 %n"
+  },
+  "%n moved": {
+    "other": "移動 %n"
+  }
+}

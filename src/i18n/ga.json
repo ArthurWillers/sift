@@ -1,0 +1,56 @@
+{
+  "Change folders": "Athraigh fillteáin",
+  "New folder": "Fillteán nua",
+  "Choose folders to start": "Roghnaigh fillteáin le tosú",
+  "Discarded photos are moved to the destination folder, never deleted.": "Bogtar grianghraif a dhiúltaítear chuig an bhfillteán sprice, ní scriostar iad riamh.",
+  "Source folder": "Fillteán foinse",
+  "Discard destination": "Sprioc diúltaithe",
+  "No folder selected": "Níor roghnaíodh fillteán",
+  "Choose": "Roghnaigh",
+  "Start sifting": "Tosaigh ag scagadh",
+  "No images found in this folder.": "Níor aimsíodh íomhánna san fhillteán seo.",
+  "All done": "Críochnaithe",
+  "Undo": "Cealaigh",
+  "Keep": "Coinnigh",
+  "Discard": "Diúltaigh",
+  "Folder name": "Ainm an fhillteáin",
+  "Cancel": "Cealaigh",
+  "Create": "Cruthaigh",
+  "Shortcuts": "Aicearraí",
+  "Keep photo": "Coinnigh grianghraf",
+  "Move to discard folder": "Bog chuig fillteán diúltaithe",
+  "Undo last action": "Cealaigh an gníomh deireanach",
+  "Create subfolder": "Cruthaigh fofhillteán",
+  "Move to subfolder 1-9": "Bog chuig fofhillteán 1-9",
+  "Choose source or discard folder": "Roghnaigh fillteán foinse nó diúltaithe",
+  "Toggle shortcuts": "Taispeáin/folaigh aicearraí",
+  "Quit": "Scoir",
+  "%n remaining": {
+    "one": "%n fágtha",
+    "two": "%n fágtha",
+    "few": "%n fágtha",
+    "many": "%n fágtha",
+    "other": "%n fágtha"
+  },
+  "%n kept": {
+    "one": "%n coinnithe",
+    "two": "%n coinnithe",
+    "few": "%n coinnithe",
+    "many": "%n coinnithe",
+    "other": "%n coinnithe"
+  },
+  "%n discarded": {
+    "one": "%n diúltaithe",
+    "two": "%n diúltaithe",
+    "few": "%n diúltaithe",
+    "many": "%n diúltaithe",
+    "other": "%n diúltaithe"
+  },
+  "%n moved": {
+    "one": "%n bogtha",
+    "two": "%n bogtha",
+    "few": "%n bogtha",
+    "many": "%n bogtha",
+    "other": "%n bogtha"
+  }
+}

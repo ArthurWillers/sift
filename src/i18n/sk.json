@@ -1,0 +1,48 @@
+{
+  "Change folders": "Zmeniť priečinky",
+  "New folder": "Nový priečinok",
+  "Choose folders to start": "Vyberte priečinky na začatie",
+  "Discarded photos are moved to the destination folder, never deleted.": "Vyradené fotky sa presunú do cieľového priečinka, nikdy sa nemažú.",
+  "Source folder": "Zdrojový priečinok",
+  "Discard destination": "Cieľ pre vyradené",
+  "No folder selected": "Nie je vybratý priečinok",
+  "Choose": "Vybrať",
+  "Start sifting": "Spustiť triedenie",
+  "No images found in this folder.": "V tomto priečinku sa nenašli žiadne obrázky.",
+  "All done": "Všetko hotové",
+  "Undo": "Späť",
+  "Keep": "Ponechať",
+  "Discard": "Vyradiť",
+  "Folder name": "Názov priečinka",
+  "Cancel": "Zrušiť",
+  "Create": "Vytvoriť",
+  "Shortcuts": "Skratky",
+  "Keep photo": "Ponechať fotku",
+  "Move to discard folder": "Presunúť do priečinka vyradených",
+  "Undo last action": "Vrátiť poslednú akciu",
+  "Create subfolder": "Vytvoriť podpriečinok",
+  "Move to subfolder 1-9": "Presunúť do podpriečinka 1-9",
+  "Choose source or discard folder": "Vybrať zdrojový alebo cieľový priečinok",
+  "Toggle shortcuts": "Zobraziť/skryť skratky",
+  "Quit": "Ukončiť",
+  "%n remaining": {
+    "one": "Zostáva %n",
+    "few": "Zostávajú %n",
+    "other": "Zostáva %n"
+  },
+  "%n kept": {
+    "one": "%n ponechaná",
+    "few": "%n ponechané",
+    "other": "%n ponechaných"
+  },
+  "%n discarded": {
+    "one": "%n vyradená",
+    "few": "%n vyradené",
+    "other": "%n vyradených"
+  },
+  "%n moved": {
+    "one": "%n presunutá",
+    "few": "%n presunuté",
+    "other": "%n presunutých"
+  }
+}

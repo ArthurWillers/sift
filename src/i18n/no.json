@@ -1,0 +1,44 @@
+{
+  "Change folders": "Bytt mapper",
+  "New folder": "Ny mappe",
+  "Choose folders to start": "Velg mapper for å starte",
+  "Discarded photos are moved to the destination folder, never deleted.": "Forkastede bilder flyttes til målmappen, aldri slettet.",
+  "Source folder": "Kildemappe",
+  "Discard destination": "Mål for forkastede",
+  "No folder selected": "Ingen mappe valgt",
+  "Choose": "Velg",
+  "Start sifting": "Start sortering",
+  "No images found in this folder.": "Ingen bilder funnet i denne mappen.",
+  "All done": "Ferdig",
+  "Undo": "Angre",
+  "Keep": "Behold",
+  "Discard": "Forkast",
+  "Folder name": "Mappenavn",
+  "Cancel": "Avbryt",
+  "Create": "Opprett",
+  "Shortcuts": "Snarveier",
+  "Keep photo": "Behold bilde",
+  "Move to discard folder": "Flytt til forkastingsmappe",
+  "Undo last action": "Angre siste handling",
+  "Create subfolder": "Opprett undermappe",
+  "Move to subfolder 1-9": "Flytt til undermappe 1-9",
+  "Choose source or discard folder": "Velg kilde- eller forkastingsmappe",
+  "Toggle shortcuts": "Vis/skjul snarveier",
+  "Quit": "Avslutt",
+  "%n remaining": {
+    "one": "%n gjenstår",
+    "other": "%n gjenstår"
+  },
+  "%n kept": {
+    "one": "%n beholdt",
+    "other": "%n beholdt"
+  },
+  "%n discarded": {
+    "one": "%n forkastet",
+    "other": "%n forkastet"
+  },
+  "%n moved": {
+    "one": "%n flyttet",
+    "other": "%n flyttet"
+  }
+}

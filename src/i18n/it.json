@@ -1,0 +1,44 @@
+{
+  "Change folders": "Cambia cartelle",
+  "New folder": "Nuova cartella",
+  "Choose folders to start": "Scegli le cartelle per iniziare",
+  "Discarded photos are moved to the destination folder, never deleted.": "Le foto scartate vengono spostate nella cartella di destinazione, mai eliminate.",
+  "Source folder": "Cartella di origine",
+  "Discard destination": "Destinazione scarti",
+  "No folder selected": "Nessuna cartella selezionata",
+  "Choose": "Scegli",
+  "Start sifting": "Inizia selezione",
+  "No images found in this folder.": "Nessuna immagine trovata in questa cartella.",
+  "All done": "Tutto fatto",
+  "Undo": "Annulla",
+  "Keep": "Tieni",
+  "Discard": "Scarta",
+  "Folder name": "Nome cartella",
+  "Cancel": "Annulla",
+  "Create": "Crea",
+  "Shortcuts": "Scorciatoie",
+  "Keep photo": "Tieni foto",
+  "Move to discard folder": "Sposta nella cartella scarti",
+  "Undo last action": "Annulla ultima azione",
+  "Create subfolder": "Crea sottocartella",
+  "Move to subfolder 1-9": "Sposta in sottocartella 1-9",
+  "Choose source or discard folder": "Scegli cartella di origine o scarti",
+  "Toggle shortcuts": "Mostra/nascondi scorciatoie",
+  "Quit": "Esci",
+  "%n remaining": {
+    "one": "%n rimanente",
+    "other": "%n rimanenti"
+  },
+  "%n kept": {
+    "one": "%n tenuta",
+    "other": "%n tenute"
+  },
+  "%n discarded": {
+    "one": "%n scartata",
+    "other": "%n scartate"
+  },
+  "%n moved": {
+    "one": "%n spostata",
+    "other": "%n spostate"
+  }
+}

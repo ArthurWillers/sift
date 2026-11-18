@@ -1,0 +1,44 @@
+{
+  "Change folders": "Vaihda kansioita",
+  "New folder": "Uusi kansio",
+  "Choose folders to start": "Valitse kansiot aloittaaksesi",
+  "Discarded photos are moved to the destination folder, never deleted.": "Hylätyt kuvat siirretään kohdekansioon, ei koskaan poisteta.",
+  "Source folder": "Lähdekansio",
+  "Discard destination": "Hylättyjen kohde",
+  "No folder selected": "Kansiota ei valittu",
+  "Choose": "Valitse",
+  "Start sifting": "Aloita läpikäynti",
+  "No images found in this folder.": "Kansiosta ei löytynyt kuvia.",
+  "All done": "Valmis",
+  "Undo": "Kumoa",
+  "Keep": "Säilytä",
+  "Discard": "Hylkää",
+  "Folder name": "Kansion nimi",
+  "Cancel": "Peruuta",
+  "Create": "Luo",
+  "Shortcuts": "Pikanäppäimet",
+  "Keep photo": "Säilytä kuva",
+  "Move to discard folder": "Siirrä hylättyjen kansioon",
+  "Undo last action": "Kumoa viimeisin toiminto",
+  "Create subfolder": "Luo alikansio",
+  "Move to subfolder 1-9": "Siirrä alikansioon 1-9",
+  "Choose source or discard folder": "Valitse lähde- tai hylkäyskansio",
+  "Toggle shortcuts": "Näytä/piilota pikanäppäimet",
+  "Quit": "Lopeta",
+  "%n remaining": {
+    "one": "%n jäljellä",
+    "other": "%n jäljellä"
+  },
+  "%n kept": {
+    "one": "%n säilytetty",
+    "other": "%n säilytetty"
+  },
+  "%n discarded": {
+    "one": "%n hylätty",
+    "other": "%n hylätty"
+  },
+  "%n moved": {
+    "one": "%n siirretty",
+    "other": "%n siirretty"
+  }
+}

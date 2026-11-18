@@ -1,0 +1,44 @@
+{
+  "Change folders": "فولڈرز تبدیل کریں",
+  "New folder": "نیا فولڈر",
+  "Choose folders to start": "شروع کرنے کے لیے فولڈرز منتخب کریں",
+  "Discarded photos are moved to the destination folder, never deleted.": "رد کی گئی تصاویر منزل کے فولڈر میں منتقل ہوتی ہیں، کبھی حذف نہیں ہوتیں۔",
+  "Source folder": "ماخذ فولڈر",
+  "Discard destination": "رد شدہ کی منزل",
+  "No folder selected": "کوئی فولڈر منتخب نہیں",
+  "Choose": "منتخب کریں",
+  "Start sifting": "چھانٹی شروع کریں",
+  "No images found in this folder.": "اس فولڈر میں کوئی تصویر نہیں ملی۔",
+  "All done": "مکمل ہو گیا",
+  "Undo": "واپس کریں",
+  "Keep": "رکھیں",
+  "Discard": "رد کریں",
+  "Folder name": "فولڈر کا نام",
+  "Cancel": "منسوخ",
+  "Create": "بنائیں",
+  "Shortcuts": "شارٹ کٹس",
+  "Keep photo": "تصویر رکھیں",
+  "Move to discard folder": "رد شدہ فولڈر میں منتقل کریں",
+  "Undo last action": "آخری عمل واپس کریں",
+  "Create subfolder": "ذیلی فولڈر بنائیں",
+  "Move to subfolder 1-9": "ذیلی فولڈر 1-9 میں منتقل کریں",
+  "Choose source or discard folder": "ماخذ یا رد شدہ فولڈر منتخب کریں",
+  "Toggle shortcuts": "شارٹ کٹس دکھائیں/چھپائیں",
+  "Quit": "بند کریں",
+  "%n remaining": {
+    "one": "%n باقی",
+    "other": "%n باقی"
+  },
+  "%n kept": {
+    "one": "%n رکھی گئی",
+    "other": "%n رکھی گئیں"
+  },
+  "%n discarded": {
+    "one": "%n رد کی گئی",
+    "other": "%n رد کی گئیں"
+  },
+  "%n moved": {
+    "one": "%n منتقل ہوئی",
+    "other": "%n منتقل ہوئیں"
+  }
+}

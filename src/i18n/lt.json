@@ -1,0 +1,48 @@
+{
+  "Change folders": "Keisti aplankus",
+  "New folder": "Naujas aplankas",
+  "Choose folders to start": "Pasirinkite aplankus pradžiai",
+  "Discarded photos are moved to the destination folder, never deleted.": "Atmestos nuotraukos perkeliamos į paskirties aplanką, niekada neištrinamos.",
+  "Source folder": "Šaltinio aplankas",
+  "Discard destination": "Atmestų paskirtis",
+  "No folder selected": "Nepasirinktas aplankas",
+  "Choose": "Pasirinkti",
+  "Start sifting": "Pradėti atranką",
+  "No images found in this folder.": "Šiame aplanke vaizdų nerasta.",
+  "All done": "Viskas baigta",
+  "Undo": "Atšaukti",
+  "Keep": "Palikti",
+  "Discard": "Atmesti",
+  "Folder name": "Aplanko pavadinimas",
+  "Cancel": "Atšaukti",
+  "Create": "Sukurti",
+  "Shortcuts": "Spartieji klavišai",
+  "Keep photo": "Palikti nuotrauką",
+  "Move to discard folder": "Perkelti į atmestų aplanką",
+  "Undo last action": "Atšaukti paskutinį veiksmą",
+  "Create subfolder": "Sukurti poaplankį",
+  "Move to subfolder 1-9": "Perkelti į poaplankį 1-9",
+  "Choose source or discard folder": "Pasirinkti šaltinio arba atmestų aplanką",
+  "Toggle shortcuts": "Rodyti/slėpti klavišus",
+  "Quit": "Išeiti",
+  "%n remaining": {
+    "one": "Liko %n",
+    "few": "Liko %n",
+    "other": "Liko %n"
+  },
+  "%n kept": {
+    "one": "Palikta %n",
+    "few": "Paliktos %n",
+    "other": "Palikta %n"
+  },
+  "%n discarded": {
+    "one": "Atmesta %n",
+    "few": "Atmestos %n",
+    "other": "Atmesta %n"
+  },
+  "%n moved": {
+    "one": "Perkelta %n",
+    "few": "Perkeltos %n",
+    "other": "Perkelta %n"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Change folders": "Canviar carpetes",
+  "New folder": "Nova carpeta",
+  "Choose folders to start": "Trieu les carpetes per començar",
+  "Discarded photos are moved to the destination folder, never deleted.": "Les fotos descartades es mouen a la carpeta de destinació, mai s'eliminen.",
+  "Source folder": "Carpeta d'origen",
+  "Discard destination": "Destinació de descartades",
+  "No folder selected": "Cap carpeta seleccionada",
+  "Choose": "Triar",
+  "Start sifting": "Començar la tria",
+  "No images found in this folder.": "No s'han trobat imatges en aquesta carpeta.",
+  "All done": "Tot fet",
+  "Undo": "Desfer",
+  "Keep": "Mantenir",
+  "Discard": "Descartar",
+  "Folder name": "Nom de la carpeta",
+  "Cancel": "Cancel·lar",
+  "Create": "Crear",
+  "Shortcuts": "Dreceres",
+  "Keep photo": "Mantenir foto",
+  "Move to discard folder": "Moure a la carpeta de descartades",
+  "Undo last action": "Desfer l'última acció",
+  "Create subfolder": "Crear subcarpeta",
+  "Move to subfolder 1-9": "Moure a la subcarpeta 1-9",
+  "Choose source or discard folder": "Triar carpeta d'origen o de descartades",
+  "Toggle shortcuts": "Mostrar/amagar dreceres",
+  "Quit": "Sortir",
+  "%n remaining": {
+    "one": "%n restant",
+    "other": "%n restants"
+  },
+  "%n kept": {
+    "one": "%n mantinguda",
+    "other": "%n mantingudes"
+  },
+  "%n discarded": {
+    "one": "%n descartada",
+    "other": "%n descartades"
+  },
+  "%n moved": {
+    "one": "%n moguda",
+    "other": "%n mogudes"
+  }
+}

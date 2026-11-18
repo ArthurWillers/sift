@@ -1,0 +1,48 @@
+{
+  "Change folders": "Schimbă dosarele",
+  "New folder": "Dosar nou",
+  "Choose folders to start": "Alege dosarele pentru a începe",
+  "Discarded photos are moved to the destination folder, never deleted.": "Fotografiile eliminate sunt mutate în dosarul destinație, niciodată șterse.",
+  "Source folder": "Dosar sursă",
+  "Discard destination": "Destinație eliminate",
+  "No folder selected": "Niciun dosar selectat",
+  "Choose": "Alege",
+  "Start sifting": "Începe sortarea",
+  "No images found in this folder.": "Nu s-au găsit imagini în acest dosar.",
+  "All done": "Gata",
+  "Undo": "Anulează",
+  "Keep": "Păstrează",
+  "Discard": "Elimină",
+  "Folder name": "Nume dosar",
+  "Cancel": "Renunță",
+  "Create": "Creează",
+  "Shortcuts": "Scurtături",
+  "Keep photo": "Păstrează fotografia",
+  "Move to discard folder": "Mută în dosarul de eliminare",
+  "Undo last action": "Anulează ultima acțiune",
+  "Create subfolder": "Creează subdosar",
+  "Move to subfolder 1-9": "Mută în subdosarul 1-9",
+  "Choose source or discard folder": "Alege dosarul sursă sau de eliminare",
+  "Toggle shortcuts": "Arată/ascunde scurtăturile",
+  "Quit": "Ieșire",
+  "%n remaining": {
+    "one": "%n rămasă",
+    "few": "%n rămase",
+    "other": "%n rămase"
+  },
+  "%n kept": {
+    "one": "%n păstrată",
+    "few": "%n păstrate",
+    "other": "%n păstrate"
+  },
+  "%n discarded": {
+    "one": "%n eliminată",
+    "few": "%n eliminate",
+    "other": "%n eliminate"
+  },
+  "%n moved": {
+    "one": "%n mutată",
+    "few": "%n mutate",
+    "other": "%n mutate"
+  }
+}

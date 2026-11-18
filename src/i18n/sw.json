@@ -1,0 +1,44 @@
+{
+  "Change folders": "Badilisha folda",
+  "New folder": "Folda mpya",
+  "Choose folders to start": "Chagua folda ili kuanza",
+  "Discarded photos are moved to the destination folder, never deleted.": "Picha zilizoachwa huhamishiwa kwenye folda lengwa, hazifutwi kamwe.",
+  "Source folder": "Folda chanzo",
+  "Discard destination": "Folda ya zilizoachwa",
+  "No folder selected": "Hakuna folda iliyochaguliwa",
+  "Choose": "Chagua",
+  "Start sifting": "Anza kuchuja",
+  "No images found in this folder.": "Hakuna picha zilizopatikana kwenye folda hii.",
+  "All done": "Yote yamekamilika",
+  "Undo": "Tendua",
+  "Keep": "Hifadhi",
+  "Discard": "Acha",
+  "Folder name": "Jina la folda",
+  "Cancel": "Ghairi",
+  "Create": "Unda",
+  "Shortcuts": "Mikato",
+  "Keep photo": "Hifadhi picha",
+  "Move to discard folder": "Hamisha kwenye folda ya zilizoachwa",
+  "Undo last action": "Tendua hatua ya mwisho",
+  "Create subfolder": "Unda folda ndogo",
+  "Move to subfolder 1-9": "Hamisha kwenye folda ndogo 1-9",
+  "Choose source or discard folder": "Chagua folda chanzo au ya zilizoachwa",
+  "Toggle shortcuts": "Onyesha/ficha mikato",
+  "Quit": "Ondoka",
+  "%n remaining": {
+    "one": "%n imebaki",
+    "other": "%n zimebaki"
+  },
+  "%n kept": {
+    "one": "%n imehifadhiwa",
+    "other": "%n zimehifadhiwa"
+  },
+  "%n discarded": {
+    "one": "%n imeachwa",
+    "other": "%n zimeachwa"
+  },
+  "%n moved": {
+    "one": "%n imehamishwa",
+    "other": "%n zimehamishwa"
+  }
+}

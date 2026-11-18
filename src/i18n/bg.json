@@ -1,0 +1,44 @@
+{
+  "Change folders": "Смяна на папки",
+  "New folder": "Нова папка",
+  "Choose folders to start": "Изберете папки за начало",
+  "Discarded photos are moved to the destination folder, never deleted.": "Отхвърлените снимки се местят в целевата папка, никога не се изтриват.",
+  "Source folder": "Изходна папка",
+  "Discard destination": "Папка за отхвърлени",
+  "No folder selected": "Няма избрана папка",
+  "Choose": "Избери",
+  "Start sifting": "Започни преглед",
+  "No images found in this folder.": "В тази папка няма изображения.",
+  "All done": "Готово",
+  "Undo": "Отмяна",
+  "Keep": "Запази",
+  "Discard": "Отхвърли",
+  "Folder name": "Име на папка",
+  "Cancel": "Отказ",
+  "Create": "Създай",
+  "Shortcuts": "Клавишни комбинации",
+  "Keep photo": "Запази снимката",
+  "Move to discard folder": "Премести в папка за отхвърлени",
+  "Undo last action": "Отмени последното действие",
+  "Create subfolder": "Създай подпапка",
+  "Move to subfolder 1-9": "Премести в подпапка 1-9",
+  "Choose source or discard folder": "Избери изходна или папка за отхвърлени",
+  "Toggle shortcuts": "Покажи/скрий комбинациите",
+  "Quit": "Изход",
+  "%n remaining": {
+    "one": "Остава %n",
+    "other": "Остават %n"
+  },
+  "%n kept": {
+    "one": "%n запазена",
+    "other": "%n запазени"
+  },
+  "%n discarded": {
+    "one": "%n отхвърлена",
+    "other": "%n отхвърлени"
+  },
+  "%n moved": {
+    "one": "%n преместена",
+    "other": "%n преместени"
+  }
+}

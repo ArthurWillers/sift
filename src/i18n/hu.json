@@ -1,0 +1,44 @@
+{
+  "Change folders": "Mappák módosítása",
+  "New folder": "Új mappa",
+  "Choose folders to start": "Válasszon mappákat a kezdéshez",
+  "Discarded photos are moved to the destination folder, never deleted.": "A kiselejtezett fotók a célmappába kerülnek, soha nem törlődnek.",
+  "Source folder": "Forrásmappa",
+  "Discard destination": "Kiselejtezettek célja",
+  "No folder selected": "Nincs mappa kiválasztva",
+  "Choose": "Választás",
+  "Start sifting": "Válogatás indítása",
+  "No images found in this folder.": "Nem találhatók képek ebben a mappában.",
+  "All done": "Kész",
+  "Undo": "Visszavonás",
+  "Keep": "Megtartás",
+  "Discard": "Elvetés",
+  "Folder name": "Mappa neve",
+  "Cancel": "Mégse",
+  "Create": "Létrehozás",
+  "Shortcuts": "Gyorsbillentyűk",
+  "Keep photo": "Fotó megtartása",
+  "Move to discard folder": "Áthelyezés a célmappába",
+  "Undo last action": "Utolsó művelet visszavonása",
+  "Create subfolder": "Almappa létrehozása",
+  "Move to subfolder 1-9": "Áthelyezés az 1-9 almappába",
+  "Choose source or discard folder": "Forrás- vagy célmappa választása",
+  "Toggle shortcuts": "Gyorsbillentyűk mutatása/rejtése",
+  "Quit": "Kilépés",
+  "%n remaining": {
+    "one": "%n maradt",
+    "other": "%n maradt"
+  },
+  "%n kept": {
+    "one": "%n megtartva",
+    "other": "%n megtartva"
+  },
+  "%n discarded": {
+    "one": "%n elvetve",
+    "other": "%n elvetve"
+  },
+  "%n moved": {
+    "one": "%n áthelyezve",
+    "other": "%n áthelyezve"
+  }
+}

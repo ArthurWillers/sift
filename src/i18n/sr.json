@@ -1,0 +1,48 @@
+{
+  "Change folders": "Promeni fascikle",
+  "New folder": "Nova fascikla",
+  "Choose folders to start": "Izaberite fascikle za početak",
+  "Discarded photos are moved to the destination folder, never deleted.": "Odbačene fotografije se premeštaju u odredišnu fasciklu, nikad se ne brišu.",
+  "Source folder": "Izvorna fascikla",
+  "Discard destination": "Odredište za odbačene",
+  "No folder selected": "Nije izabrana fascikla",
+  "Choose": "Izaberi",
+  "Start sifting": "Započni pregled",
+  "No images found in this folder.": "U ovoj fascikli nema slika.",
+  "All done": "Sve gotovo",
+  "Undo": "Opozovi",
+  "Keep": "Zadrži",
+  "Discard": "Odbaci",
+  "Folder name": "Ime fascikle",
+  "Cancel": "Otkaži",
+  "Create": "Napravi",
+  "Shortcuts": "Prečice",
+  "Keep photo": "Zadrži fotografiju",
+  "Move to discard folder": "Premesti u fasciklu za odbačene",
+  "Undo last action": "Opozovi poslednju radnju",
+  "Create subfolder": "Napravi podfasciklu",
+  "Move to subfolder 1-9": "Premesti u podfasciklu 1-9",
+  "Choose source or discard folder": "Izaberi izvornu ili fasciklu za odbačene",
+  "Toggle shortcuts": "Prikaži/sakrij prečice",
+  "Quit": "Izađi",
+  "%n remaining": {
+    "one": "Preostala %n",
+    "few": "Preostale %n",
+    "other": "Preostalo %n"
+  },
+  "%n kept": {
+    "one": "%n zadržana",
+    "few": "%n zadržane",
+    "other": "%n zadržano"
+  },
+  "%n discarded": {
+    "one": "%n odbačena",
+    "few": "%n odbačene",
+    "other": "%n odbačeno"
+  },
+  "%n moved": {
+    "one": "%n premeštena",
+    "few": "%n premeštene",
+    "other": "%n premešteno"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Change folders": "फ़ोल्डर बदलें",
+  "New folder": "नया फ़ोल्डर",
+  "Choose folders to start": "शुरू करने के लिए फ़ोल्डर चुनें",
+  "Discarded photos are moved to the destination folder, never deleted.": "हटाई गई फ़ोटो गंतव्य फ़ोल्डर में जाती हैं, कभी डिलीट नहीं होतीं।",
+  "Source folder": "स्रोत फ़ोल्डर",
+  "Discard destination": "हटाने का गंतव्य",
+  "No folder selected": "कोई फ़ोल्डर नहीं चुना गया",
+  "Choose": "चुनें",
+  "Start sifting": "छंटाई शुरू करें",
+  "No images found in this folder.": "इस फ़ोल्डर में कोई छवि नहीं मिली।",
+  "All done": "पूरा हुआ",
+  "Undo": "पूर्ववत करें",
+  "Keep": "रखें",
+  "Discard": "हटाएँ",
+  "Folder name": "फ़ोल्डर नाम",
+  "Cancel": "रद्द करें",
+  "Create": "बनाएँ",
+  "Shortcuts": "शॉर्टकट",
+  "Keep photo": "फ़ोटो रखें",
+  "Move to discard folder": "गंतव्य फ़ोल्डर में भेजें",
+  "Undo last action": "अंतिम क्रिया पूर्ववत करें",
+  "Create subfolder": "सबफ़ोल्डर बनाएँ",
+  "Move to subfolder 1-9": "सबफ़ोल्डर 1-9 में भेजें",
+  "Choose source or discard folder": "स्रोत या गंतव्य फ़ोल्डर चुनें",
+  "Toggle shortcuts": "शॉर्टकट दिखाएँ/छिपाएँ",
+  "Quit": "बाहर निकलें",
+  "%n remaining": {
+    "one": "%n शेष",
+    "other": "%n शेष"
+  },
+  "%n kept": {
+    "one": "%n रखी गई",
+    "other": "%n रखी गईं"
+  },
+  "%n discarded": {
+    "one": "%n हटाई गई",
+    "other": "%n हटाई गईं"
+  },
+  "%n moved": {
+    "one": "%n भेजी गई",
+    "other": "%n भेजी गईं"
+  }
+}

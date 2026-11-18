@@ -1,0 +1,40 @@
+{
+  "Change folders": "フォルダを変更",
+  "New folder": "新しいフォルダ",
+  "Choose folders to start": "開始するフォルダを選択",
+  "Discarded photos are moved to the destination folder, never deleted.": "不要な写真は削除されず、移動先フォルダへ移動されます。",
+  "Source folder": "元のフォルダ",
+  "Discard destination": "移動先フォルダ",
+  "No folder selected": "フォルダが選択されていません",
+  "Choose": "選択",
+  "Start sifting": "仕分けを開始",
+  "No images found in this folder.": "このフォルダに画像が見つかりません。",
+  "All done": "すべて完了",
+  "Undo": "元に戻す",
+  "Keep": "残す",
+  "Discard": "除外",
+  "Folder name": "フォルダ名",
+  "Cancel": "キャンセル",
+  "Create": "作成",
+  "Shortcuts": "ショートカット",
+  "Keep photo": "写真を残す",
+  "Move to discard folder": "除外フォルダへ移動",
+  "Undo last action": "直前の操作を元に戻す",
+  "Create subfolder": "サブフォルダを作成",
+  "Move to subfolder 1-9": "サブフォルダ 1-9 へ移動",
+  "Choose source or discard folder": "元または移動先フォルダを選択",
+  "Toggle shortcuts": "ショートカット表示切替",
+  "Quit": "終了",
+  "%n remaining": {
+    "other": "残り %n"
+  },
+  "%n kept": {
+    "other": "残す %n"
+  },
+  "%n discarded": {
+    "other": "除外 %n"
+  },
+  "%n moved": {
+    "other": "移動 %n"
+  }
+}

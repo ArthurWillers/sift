@@ -1,0 +1,44 @@
+{
+  "Change folders": "ফোল্ডার পরিবর্তন",
+  "New folder": "নতুন ফোল্ডার",
+  "Choose folders to start": "শুরু করতে ফোল্ডার নির্বাচন করুন",
+  "Discarded photos are moved to the destination folder, never deleted.": "বাতিল করা ছবি গন্তব্য ফোল্ডারে সরানো হয়, কখনোই মুছে ফেলা হয় না।",
+  "Source folder": "উৎস ফোল্ডার",
+  "Discard destination": "বাতিলের গন্তব্য",
+  "No folder selected": "কোনো ফোল্ডার নির্বাচিত নয়",
+  "Choose": "বেছে নিন",
+  "Start sifting": "বাছাই শুরু করুন",
+  "No images found in this folder.": "এই ফোল্ডারে কোনো ছবি পাওয়া যায়নি।",
+  "All done": "সব শেষ",
+  "Undo": "পূর্বাবস্থায়",
+  "Keep": "রাখুন",
+  "Discard": "বাতিল",
+  "Folder name": "ফোল্ডারের নাম",
+  "Cancel": "বাতিল",
+  "Create": "তৈরি করুন",
+  "Shortcuts": "শর্টকাট",
+  "Keep photo": "ছবি রাখুন",
+  "Move to discard folder": "বাতিল ফোল্ডারে সরান",
+  "Undo last action": "শেষ কাজটি পূর্বাবস্থায় নিন",
+  "Create subfolder": "সাবফোল্ডার তৈরি করুন",
+  "Move to subfolder 1-9": "সাবফোল্ডার 1-9 এ সরান",
+  "Choose source or discard folder": "উৎস বা বাতিল ফোল্ডার বেছে নিন",
+  "Toggle shortcuts": "শর্টকাট দেখান/লুকান",
+  "Quit": "প্রস্থান",
+  "%n remaining": {
+    "one": "%nটি বাকি",
+    "other": "%nটি বাকি"
+  },
+  "%n kept": {
+    "one": "%nটি রাখা হয়েছে",
+    "other": "%nটি রাখা হয়েছে"
+  },
+  "%n discarded": {
+    "one": "%nটি বাতিল",
+    "other": "%nটি বাতিল"
+  },
+  "%n moved": {
+    "one": "%nটি সরানো হয়েছে",
+    "other": "%nটি সরানো হয়েছে"
+  }
+}

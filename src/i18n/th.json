@@ -1,0 +1,40 @@
+{
+  "Change folders": "เปลี่ยนโฟลเดอร์",
+  "New folder": "โฟลเดอร์ใหม่",
+  "Choose folders to start": "เลือกโฟลเดอร์เพื่อเริ่มต้น",
+  "Discarded photos are moved to the destination folder, never deleted.": "รูปที่คัดออกจะถูกย้ายไปยังโฟลเดอร์ปลายทาง ไม่ถูกลบถาวร",
+  "Source folder": "โฟลเดอร์ต้นทาง",
+  "Discard destination": "โฟลเดอร์ปลายทางคัดออก",
+  "No folder selected": "ยังไม่ได้เลือกโฟลเดอร์",
+  "Choose": "เลือก",
+  "Start sifting": "เริ่มคัดแยก",
+  "No images found in this folder.": "ไม่พบรูปภาพในโฟลเดอร์นี้",
+  "All done": "เสร็จสิ้นทั้งหมด",
+  "Undo": "เลิกทำ",
+  "Keep": "เก็บไว้",
+  "Discard": "คัดออก",
+  "Folder name": "ชื่อโฟลเดอร์",
+  "Cancel": "ยกเลิก",
+  "Create": "สร้าง",
+  "Shortcuts": "คีย์ลัด",
+  "Keep photo": "เก็บรูปภาพ",
+  "Move to discard folder": "ย้ายไปยังโฟลเดอร์คัดออก",
+  "Undo last action": "เลิกทำการกระทำล่าสุด",
+  "Create subfolder": "สร้างโฟลเดอร์ย่อย",
+  "Move to subfolder 1-9": "ย้ายไปยังโฟลเดอร์ย่อย 1-9",
+  "Choose source or discard folder": "เลือกโฟลเดอร์ต้นทางหรือคัดออก",
+  "Toggle shortcuts": "แสดง/ซ่อนคีย์ลัด",
+  "Quit": "ออก",
+  "%n remaining": {
+    "other": "เหลือ %n"
+  },
+  "%n kept": {
+    "other": "เก็บ %n"
+  },
+  "%n discarded": {
+    "other": "คัดออก %n"
+  },
+  "%n moved": {
+    "other": "ย้าย %n"
+  }
+}

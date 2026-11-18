@@ -1,0 +1,48 @@
+{
+  "Change folders": "Mainīt mapes",
+  "New folder": "Jauna mape",
+  "Choose folders to start": "Izvēlieties mapes, lai sāktu",
+  "Discarded photos are moved to the destination folder, never deleted.": "Atmestie fotoattēli tiek pārvietoti uz mērķa mapi, nevis dzēsti.",
+  "Source folder": "Avota mape",
+  "Discard destination": "Atmesto mērķa mape",
+  "No folder selected": "Mape nav izvēlēta",
+  "Choose": "Izvēlēties",
+  "Start sifting": "Sākt atlasi",
+  "No images found in this folder.": "Šajā mapē nav attēlu.",
+  "All done": "Viss paveikts",
+  "Undo": "Atsaukt",
+  "Keep": "Paturēt",
+  "Discard": "Atmest",
+  "Folder name": "Mapes nosaukums",
+  "Cancel": "Atcelt",
+  "Create": "Izveidot",
+  "Shortcuts": "Īsinājumtaustiņi",
+  "Keep photo": "Paturēt fotoattēlu",
+  "Move to discard folder": "Pārvietot uz atmesto mapi",
+  "Undo last action": "Atsaukt pēdējo darbību",
+  "Create subfolder": "Izveidot apakšmapi",
+  "Move to subfolder 1-9": "Pārvietot uz apakšmapi 1-9",
+  "Choose source or discard folder": "Izvēlēties avota vai atmesto mapi",
+  "Toggle shortcuts": "Rādīt/paslēpt īsinājumtaustiņus",
+  "Quit": "Iziet",
+  "%n remaining": {
+    "zero": "Atlicis %n",
+    "one": "Atlicis %n",
+    "other": "Atlikuši %n"
+  },
+  "%n kept": {
+    "zero": "%n paturēti",
+    "one": "%n paturēts",
+    "other": "%n paturēti"
+  },
+  "%n discarded": {
+    "zero": "%n atmesti",
+    "one": "%n atmests",
+    "other": "%n atmesti"
+  },
+  "%n moved": {
+    "zero": "%n pārvietoti",
+    "one": "%n pārvietots",
+    "other": "%n pārvietoti"
+  }
+}

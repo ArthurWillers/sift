@@ -1,0 +1,52 @@
+{
+  "Change folders": "Zmień foldery",
+  "New folder": "Nowy folder",
+  "Choose folders to start": "Wybierz foldery, aby rozpocząć",
+  "Discarded photos are moved to the destination folder, never deleted.": "Odrzucone zdjęcia są przenoszone do folderu docelowego, nigdy usuwane.",
+  "Source folder": "Folder źródłowy",
+  "Discard destination": "Folder odrzuconych",
+  "No folder selected": "Nie wybrano folderu",
+  "Choose": "Wybierz",
+  "Start sifting": "Rozpocznij przegląd",
+  "No images found in this folder.": "Brak obrazów w tym folderze.",
+  "All done": "Gotowe",
+  "Undo": "Cofnij",
+  "Keep": "Zachowaj",
+  "Discard": "Odrzuć",
+  "Folder name": "Nazwa folderu",
+  "Cancel": "Anuluj",
+  "Create": "Utwórz",
+  "Shortcuts": "Skróty",
+  "Keep photo": "Zachowaj zdjęcie",
+  "Move to discard folder": "Przenieś do folderu odrzuconych",
+  "Undo last action": "Cofnij ostatnią akcję",
+  "Create subfolder": "Utwórz podfolder",
+  "Move to subfolder 1-9": "Przenieś do podfolderu 1-9",
+  "Choose source or discard folder": "Wybierz folder źródłowy lub odrzuconych",
+  "Toggle shortcuts": "Pokaż/ukryj skróty",
+  "Quit": "Zakończ",
+  "%n remaining": {
+    "one": "Pozostało %n",
+    "few": "Pozostały %n",
+    "many": "Pozostało %n",
+    "other": "Pozostało %n"
+  },
+  "%n kept": {
+    "one": "Zachowano %n",
+    "few": "Zachowano %n",
+    "many": "Zachowano %n",
+    "other": "Zachowano %n"
+  },
+  "%n discarded": {
+    "one": "Odrzucono %n",
+    "few": "Odrzucono %n",
+    "many": "Odrzucono %n",
+    "other": "Odrzucono %n"
+  },
+  "%n moved": {
+    "one": "Przeniesiono %n",
+    "few": "Przeniesiono %n",
+    "many": "Przeniesiono %n",
+    "other": "Przeniesiono %n"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "Change folders": "Trocar pastas",
+  "New folder": "Nova pasta",
+  "Choose folders to start": "Escolha as pastas para começar",
+  "Discarded photos are moved to the destination folder, never deleted.": "Fotos descartadas são movidas para a pasta de destino, nunca apagadas.",
+  "Source folder": "Pasta de origem",
+  "Discard destination": "Destino dos descartados",
+  "No folder selected": "Nenhuma pasta selecionada",
+  "Choose": "Escolher",
+  "Start sifting": "Começar triagem",
+  "No images found in this folder.": "Nenhuma imagem encontrada nesta pasta.",
+  "All done": "Tudo revisado",
+  "Undo": "Desfazer",
+  "Keep": "Manter",
+  "Discard": "Descartar",
+  "Folder name": "Nome da pasta",
+  "Cancel": "Cancelar",
+  "Create": "Criar",
+  "Shortcuts": "Atalhos",
+  "Keep photo": "Manter foto",
+  "Move to discard folder": "Mover para pasta de descarte",
+  "Undo last action": "Desfazer última ação",
+  "Create subfolder": "Criar subpasta",
+  "Move to subfolder 1-9": "Mover para subpasta 1-9",
+  "Choose source or discard folder": "Escolher pasta de origem ou descarte",
+  "Toggle shortcuts": "Mostrar/ocultar atalhos",
+  "Quit": "Sair",
+  "%n remaining": {
+    "one": "%n restante",
+    "other": "%n restantes"
+  },
+  "%n kept": {
+    "one": "%n mantida",
+    "other": "%n mantidas"
+  },
+  "%n discarded": {
+    "one": "%n descartada",
+    "other": "%n descartadas"
+  },
+  "%n moved": {
+    "one": "%n movida",
+    "other": "%n movidas"
+  },
+  "Review complete": "Revisão concluída",
+  "No files have been moved yet. Click below to move them now.": "Nenhum arquivo foi movido ainda. Clique abaixo para mover agora.",
+  "Move %n files": {
+    "one": "Mover %n arquivo",
+    "other": "Mover %n arquivos"
+  },
+  "Unapplied changes": "Alterações não aplicadas",
+  "Pending moves have not been applied yet. Quit without moving files?": "As movimentações pendentes ainda não foram aplicadas. Sair sem mover os arquivos?",
+  "Copied": "Copiado",
+  "Copy current file": "Copiar arquivo atual",
+  "Play": "Reproduzir",
+  "Pause": "Pausar",
+  "Mute": "Silenciar",
+  "Unmute": "Ativar som",
+  "Play/Pause or Mute video": "Pausar ou silenciar vídeo",
+  "Video": "Vídeo"
+}

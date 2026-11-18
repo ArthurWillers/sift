@@ -1,0 +1,44 @@
+{
+  "Change folders": "ෆෝල්ඩර මාරු කරන්න",
+  "New folder": "නව ෆෝල්ඩරය",
+  "Choose folders to start": "ආරම්භ කිරීමට ෆෝල්ඩර තෝරන්න",
+  "Discarded photos are moved to the destination folder, never deleted.": "ඉවත් කළ ඡායාරූප ගමනාන්ත ෆෝල්ඩරයට ගෙන යනු ලැබේ, කිසිවිටෙක මකා නොදමයි.",
+  "Source folder": "මූල ෆෝල්ඩරය",
+  "Discard destination": "ඉවත් කිරීමේ ගමනාන්තය",
+  "No folder selected": "ෆෝල්ඩරයක් තෝරා නැත",
+  "Choose": "තෝරන්න",
+  "Start sifting": "තේරීම අරඹන්න",
+  "No images found in this folder.": "මෙම ෆෝල්ඩරයේ පින්තූර හමු නොවීය.",
+  "All done": "සියල්ල අවසන්",
+  "Undo": "අහෝසි කරන්න",
+  "Keep": "තබා ගන්න",
+  "Discard": "ඉවත් කරන්න",
+  "Folder name": "ෆෝල්ඩරයේ නම",
+  "Cancel": "අවලංගු කරන්න",
+  "Create": "සාදන්න",
+  "Shortcuts": "කෙටිමං",
+  "Keep photo": "ඡායාරූපය තබා ගන්න",
+  "Move to discard folder": "ඉවත් කිරීමේ ෆෝල්ඩරයට ගෙන යන්න",
+  "Undo last action": "අවසන් ක්‍රියාව අහෝසි කරන්න",
+  "Create subfolder": "උප ෆෝල්ඩරයක් සාදන්න",
+  "Move to subfolder 1-9": "උප ෆෝල්ඩරය 1-9 වෙත ගෙන යන්න",
+  "Choose source or discard folder": "මූල හෝ ඉවත් කිරීමේ ෆෝල්ඩරය තෝරන්න",
+  "Toggle shortcuts": "කෙටිමං පෙන්වන්න/සඟවන්න",
+  "Quit": "පිටවන්න",
+  "%n remaining": {
+    "one": "%n ඉතිරිය",
+    "other": "%n ඉතිරිය"
+  },
+  "%n kept": {
+    "one": "%n තබා ගත්තා",
+    "other": "%n තබා ගත්තා"
+  },
+  "%n discarded": {
+    "one": "%n ඉවත් කළා",
+    "other": "%n ඉවත් කළා"
+  },
+  "%n moved": {
+    "one": "%n ගෙන ගියා",
+    "other": "%n ගෙන ගියා"
+  }
+}

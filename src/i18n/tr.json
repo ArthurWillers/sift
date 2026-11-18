@@ -1,0 +1,44 @@
+{
+  "Change folders": "Klasörleri değiştir",
+  "New folder": "Yeni klasör",
+  "Choose folders to start": "Başlamak için klasörleri seçin",
+  "Discarded photos are moved to the destination folder, never deleted.": "Ayrılan fotoğraflar hedef klasöre taşınır, asla silinmez.",
+  "Source folder": "Kaynak klasör",
+  "Discard destination": "Ayrılanlar hedefi",
+  "No folder selected": "Klasör seçilmedi",
+  "Choose": "Seç",
+  "Start sifting": "Ayıklamayı başlat",
+  "No images found in this folder.": "Bu klasörde görsel bulunamadı.",
+  "All done": "Tamamlandı",
+  "Undo": "Geri al",
+  "Keep": "Tut",
+  "Discard": "Ayır",
+  "Folder name": "Klasör adı",
+  "Cancel": "İptal",
+  "Create": "Oluştur",
+  "Shortcuts": "Kısayollar",
+  "Keep photo": "Fotoğrafı tut",
+  "Move to discard folder": "Ayırma klasörüne taşı",
+  "Undo last action": "Son işlemi geri al",
+  "Create subfolder": "Alt klasör oluştur",
+  "Move to subfolder 1-9": "1-9 alt klasörüne taşı",
+  "Choose source or discard folder": "Kaynak veya ayırma klasörünü seç",
+  "Toggle shortcuts": "Kısayolları aç/kapat",
+  "Quit": "Çık",
+  "%n remaining": {
+    "one": "%n kaldı",
+    "other": "%n kaldı"
+  },
+  "%n kept": {
+    "one": "%n tutuldu",
+    "other": "%n tutuldu"
+  },
+  "%n discarded": {
+    "one": "%n ayrıldı",
+    "other": "%n ayrıldı"
+  },
+  "%n moved": {
+    "one": "%n taşındı",
+    "other": "%n taşındı"
+  }
+}

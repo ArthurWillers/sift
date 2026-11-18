@@ -1,0 +1,44 @@
+{
+  "Change folders": "Ordner wechseln",
+  "New folder": "Neuer Ordner",
+  "Choose folders to start": "Ordner zum Starten wählen",
+  "Discarded photos are moved to the destination folder, never deleted.": "Aussortierte Fotos werden in den Zielordner verschoben, niemals gelöscht.",
+  "Source folder": "Quellordner",
+  "Discard destination": "Ziel für Aussortierte",
+  "No folder selected": "Kein Ordner ausgewählt",
+  "Choose": "Wählen",
+  "Start sifting": "Sichtung starten",
+  "No images found in this folder.": "Keine Bilder in diesem Ordner gefunden.",
+  "All done": "Alles erledigt",
+  "Undo": "Rückgängig",
+  "Keep": "Behalten",
+  "Discard": "Aussortieren",
+  "Folder name": "Ordnername",
+  "Cancel": "Abbrechen",
+  "Create": "Erstellen",
+  "Shortcuts": "Tastenkürzel",
+  "Keep photo": "Foto behalten",
+  "Move to discard folder": "In Zielordner verschieben",
+  "Undo last action": "Letzte Aktion rückgängig",
+  "Create subfolder": "Unterordner erstellen",
+  "Move to subfolder 1-9": "In Unterordner 1-9 verschieben",
+  "Choose source or discard folder": "Quell- oder Zielordner wählen",
+  "Toggle shortcuts": "Tastenkürzel ein-/ausblenden",
+  "Quit": "Beenden",
+  "%n remaining": {
+    "one": "%n verbleibend",
+    "other": "%n verbleibend"
+  },
+  "%n kept": {
+    "one": "%n behalten",
+    "other": "%n behalten"
+  },
+  "%n discarded": {
+    "one": "%n aussortiert",
+    "other": "%n aussortiert"
+  },
+  "%n moved": {
+    "one": "%n verschoben",
+    "other": "%n verschoben"
+  }
+}

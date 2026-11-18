@@ -1,0 +1,60 @@
+{
+  "Change folders": "تغيير المجلدات",
+  "New folder": "مجلد جديد",
+  "Choose folders to start": "اختر المجلدات للبدء",
+  "Discarded photos are moved to the destination folder, never deleted.": "تُنقل الصور المستبعدة إلى مجلد الوجهة ولا تُحذف أبداً.",
+  "Source folder": "المجلد المصدر",
+  "Discard destination": "مجلد المستبعدات",
+  "No folder selected": "لم يتم اختيار مجلد",
+  "Choose": "اختيار",
+  "Start sifting": "بدء الفرز",
+  "No images found in this folder.": "لا توجد صور في هذا المجلد.",
+  "All done": "تم الانتهاء",
+  "Undo": "تراجع",
+  "Keep": "إبقاء",
+  "Discard": "استبعاد",
+  "Folder name": "اسم المجلد",
+  "Cancel": "إلغاء",
+  "Create": "إنشاء",
+  "Shortcuts": "الاختصارات",
+  "Keep photo": "إبقاء الصورة",
+  "Move to discard folder": "نقل إلى مجلد الاستبعاد",
+  "Undo last action": "تراجع عن آخر إجراء",
+  "Create subfolder": "إنشاء مجلد فرعي",
+  "Move to subfolder 1-9": "نقل إلى المجلد الفرعي 1-9",
+  "Choose source or discard folder": "اختيار مجلد المصدر أو الاستبعاد",
+  "Toggle shortcuts": "إظهار/إخفاء الاختصارات",
+  "Quit": "خروج",
+  "%n remaining": {
+    "zero": "%n متبقية",
+    "one": "%n متبقية",
+    "two": "%n متبقيتان",
+    "few": "%n متبقية",
+    "many": "%n متبقية",
+    "other": "%n متبقية"
+  },
+  "%n kept": {
+    "zero": "%n محفوظة",
+    "one": "%n محفوظة",
+    "two": "%n محفوظتان",
+    "few": "%n محفوظة",
+    "many": "%n محفوظة",
+    "other": "%n محفوظة"
+  },
+  "%n discarded": {
+    "zero": "%n مستبعدة",
+    "one": "%n مستبعدة",
+    "two": "%n مستبعدتان",
+    "few": "%n مستبعدة",
+    "many": "%n مستبعدة",
+    "other": "%n مستبعدة"
+  },
+  "%n moved": {
+    "zero": "%n منقولة",
+    "one": "%n منقولة",
+    "two": "%n منقولتان",
+    "few": "%n منقولة",
+    "many": "%n منقولة",
+    "other": "%n منقولة"
+  }
+}
